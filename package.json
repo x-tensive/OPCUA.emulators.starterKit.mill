@@ -1,0 +1,14 @@
+{
+  "name": "@xtensive-dpa-emul/mill-starterKit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "X-tensive",
+  "license": "ISC",
+  "dependencies": {
+    "@xtensive-dpa-emul/mill": "^1.8.0"
+  }
+}
